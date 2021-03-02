@@ -25,10 +25,8 @@ public class Movement : MonoBehaviour
 
 
         targetPos.z = transform.position.z;
-        isPositiveMovement = targetPos.x > 0;
-        targetPos.x = Math.Abs(targetPos.x) > 50 ? targetPos.x * (isPositiveMovement ? 1 : -1) : targetPos.x;
-        targetPos.x = Math.Abs(targetPos.y) > 50 ? targetPos.y * (isPositiveMovement ? 1 : -1) : targetPos.y;
-
+ 
+//
         transform.position = Vector3.MoveTowards(transform.position, targetPos, speed * Time.deltaTime);
      }
 
