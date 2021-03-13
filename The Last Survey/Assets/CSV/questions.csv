@@ -1,0 +1,57 @@
+﻿1,0,Do you want to start the Survey ?,Yes,2
+2,0,Are you 18+ Years old ?,Yes,3,No,3
+3,1,Are you Inside your own room ?,Yes,4,No,5
+4,1,Do you like your Room ?,Yes,6,No,6
+5,1,Do you know where you are ?,Yes,4,No,12
+6,1,Do you like animals ?,Yes,7,No,7
+7,1,Would you say you are more intelligent than the average person ?,Yes,8,No,8
+8,1,How much money do you spend on food each month?,Yes,9,No,9
+9,1,Are you a vegetarian ?,Yes,10,No,10,I try to eat less meat,10,I only eat meat,10
+10,1,Who draw the Mona Lisa ?,Leonardo di Caprio,11,Spongebob,11,A chinese artist,11,We do not know who draw it,11
+11,1,Will computers be able to feel love someday ?,Yes,1001,No,1001
+12,2,Are you alone ?,Yes,54,No,13
+13,2,Is this living being friendly ?,Yes,55,No,14
+14,2,Does this living being try to harm you ?,Yes,15,No,16
+15,2,Would a weapon help you in this situation ?, Yes,507,No,18
+16,2,Do you like the living being ?,Yes,17,No,17
+17,2,Are you sure ?,Yes,1009,No,1009
+18,2,Have you ever taken drugs ?, Yes,19,No,19
+19,2,Would you like to take some ?,Yes,501,No,1009
+20,0,Would you rather like to play a game ?,Yes,21,No,56
+21,4,I changed something in your room find click on it or you die.
+22,5,Do you feel better after drinking your coffee ?,Yes,23,No,24
+23,5,Can we start now ?,Yes,2,No,28
+24,5,Maybe one more coffee ?,Yes,504,No,25
+25,5,Can we start now ?,No,26,Yes,503
+26,5,Would you answer my survey after one more coffee,Yes,502,No,27
+27,5,So do you want a lot of coffee ?,Yes,1005,No,503
+28,5,Are you scared of the survey ?,Yes,29,No,25
+29,6,Would an image of my cat help you relax ?,Yes,505,No,57
+30,6,Are you relaxed now ?,Yes,503,No,506
+31,6,After starring at my cat for 60 Seconds you have to be so relaxed,Yes i am relaxed,32,No your cat did not help,33
+32,6, Can we finally start with the survey ?,Yes,504,No,34
+33,6,Are you saying my cat is not relaxing ?,Yes,508,No,32
+34,6,Are you saying my cat did not help you relax enough?,Yes,508,No,35
+35,6,Isn't my cat the cutest being alive ?,Yes your cat is the cutest thing alive,1004,No I am a bad person,38
+36,6,Do you still think my cat is not relaxing ?,Yes,37,No,38
+37,6,Would u be willing to have your mind changed ?,Yes,1004,No,503
+38,6,Can more images of my cat can you make you change your mind ?,Yes,1003,No,503
+39,7,Are you sorry for interrupting my survey ?,Yes,40,No,59
+40,7,How was my survey so far ?,It was the best survey I ever did,41
+41,7,But why did you play with that legal pad ?,I have not said that,42,I dont know,43
+42,7,Why are you lying to me?,Im sorry for lying to you,1002,Because you are a computer,43
+43,7,I want a real answer,My brother came into my room and clicked on the legal pad!,1002,The questions were to easy,1002
+44,4,Hey could you please stop playing with the Lamp ?,Yes,509
+45,4,Do you want to do a survey about desk lamps ?,Yes,46,No,45
+46,4,What is your favourite desk lamp,Swing Arm,47,Mid Century Modern,47,Tiffany,47,Banker's Lamp's,47
+47,4,What is your favourite light bulb ?,Compact Fluorscent,48,LED's,48,Xenon,48,Halogen,48
+48,4,What should a desk lamp be made out of ?,Metal,49,Plastic,49,Wood,49,Ceramic,49
+49,4,How much would you pay for a good desklamp ?,25$-50$,50,50$-100$,50,100$-200$,50,More than 200$,50
+50,4,What is more important to you ?,Love,52,A good Lamp,51
+51,4,Do you love a good lamp more than your own mother?,Yes,60,No,52
+52,4,Then you should text your mother,Sure
+56,0,Would you like to start the Survey ?,Yes,2
+57,6,Do you have something against cats ?,Yes,1011,No,58
+58,6,So would you want to see my cat now?,Yes,505,Yes,505,Yes,505,Yes,505
+59,7,Wrong Answer,I understand,39
+60,4,Press the lamp 500 times for a suprise,Yes,510
